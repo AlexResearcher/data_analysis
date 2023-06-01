@@ -16,7 +16,7 @@
 ## Использованные библиотеки и модули
 - pandas;
 - matplotlib.pyplot;
-- numPy;
+- numpy;
 - datetime;
 - plotly;
 - math;
